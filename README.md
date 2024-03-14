@@ -15,7 +15,7 @@ Installed and configured Windows Server 2019 for network operations, optimized A
 
 <h2>Program walk-through:</h2>
 
-<h3>To configute the Active Directory follow the below steps:</h3>
+<h3>To configure the Active Directory follow the below steps:</h3>
 
 <p align="left">
 Open Server Manager, click add roles and features: <br/>
